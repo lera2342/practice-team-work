@@ -1,0 +1,149 @@
+p,
+h1 {
+    margin: 0;
+}
+
+ul {
+    margin: 0;
+}
+
+img {
+    display: block;
+    height: auto;
+    width: 100%;
+}
+
+.list {
+    list-style: none;
+}
+
+.link {
+    text-decoration: none;
+}
+
+
+.logo-header {
+    font-family: Inter;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 18px;
+    /* display: contents; */
+    color: #050505;
+    letter-spacing: -4%;
+    margin: 27.5px 20px 0;
+}
+.logo-header>span {
+font-family: Inter;
+    font-size: 16px;
+    line-height: 18px;
+    color: #9BB537;
+    display: contents;
+}
+.header-div {
+    font-family: Inter;
+    font-weight: 600;
+    margin: 90px 20px 0;
+    padding-bottom: 14px;
+    width: 335px;
+}
+.header-div>span {
+    font-family: Inter;
+    font-weight: 400;
+    font-style: italic;
+    color: #9BB537;
+}
+.header-paragraph {
+    font-family: Inter;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 18px;
+    color: #050505;
+    margin: 0px 20px 28px;
+    width: 335px;
+}
+.container-header {
+    display: flex;
+}
+
+.order-now-btn {
+    font-family: Inter;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 16.94px;
+    color: #050505;
+    margin: 0px 20px 48px;
+}
+
+
+.list-header {
+    display: flex;
+    padding: 0;
+    gap: 8px;
+    flex-direction: row;
+}
+
+.first-list {
+}
+.first-item-person>img {
+    width: 80px;
+    height: 280px;
+    border-radius: 14px;
+    object-fit: cover;
+}
+.first-item-small>img {
+    width: 200px;
+    height: 280px;
+    border-radius: 14px;
+    object-fit: cover;
+}
+.first-item-big>img {
+    width: 200px;
+    height: 280px;
+    border-radius: 14px;
+    object-fit: cover;
+}
+
+
+
+.second-list {
+}
+.second-item-peson>img {
+    width: 80px;
+    height: 280px;
+    border-radius: 14px;
+    object-fit: cover;
+}
+.second-item-small>img {
+width: 200px;
+height: 280px;
+border-radius: 14px;
+    object-fit: cover;
+}
+.second-item-big>img {
+width: 185px;
+height: 280px;
+border-radius: 14px;
+    object-fit: cover;
+}
+
+
+.third-list {
+}
+.third-item-peson>img {
+    width: 80px;
+    height: 280px;
+    border-radius: 14px;
+    object-fit: cover;
+}
+.third-item-small>img {
+width: 200px;
+height: 280px;
+border-radius: 14px;
+    object-fit: cover;
+}
+.third-item-big>img {
+    width: 200px;
+        height: 280px;
+        border-radius: 14px;
+        object-fit: cover;
+}
